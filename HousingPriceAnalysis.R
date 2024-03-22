@@ -1,6 +1,3 @@
-setwd("/Users/derickkiwia/Desktop/R_assignment")
-
-
 # link to dataset https://www.kaggle.com/datasets/yasserh/housing-prices-dataset/data
 
 #------------------- DATA IMPORTATION AND CLEANING-----------------------------------
